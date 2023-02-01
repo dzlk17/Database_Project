@@ -1,2 +1,4 @@
 # Database_Project
-Unfinished
+### Simple database application for university course.
+
+## Unfinished GUI!
